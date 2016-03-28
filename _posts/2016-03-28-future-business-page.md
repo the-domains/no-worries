@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "NO WORRIES HOME REPAIR & CUSTOM WOODWORKING.......\"IT'S A GREAT DAY TO GET IT RIGHT.\" No Worries is female owned and operated, I believe in a firm hand shake, and an honest look into each others eyes...I provide a trustworthy business to Plattsburgh, \_and the surrounding communities. No Worries has much love, and passion for the work that is done, and proud to say it. Mindy Tsolina-Owner/518-593-8686."
-datePublished: '2016-03-28T23:12:55.725Z'
-dateModified: '2016-03-28T23:12:31.184Z'
+datePublished: '2016-03-28T23:22:13.155Z'
+dateModified: '2016-03-28T23:12:58.841Z'
 title: Future business page
 author: []
 sourcePath: _posts/2016-03-28-future-business-page.md
