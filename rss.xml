@@ -4,8 +4,15 @@
         <description><![CDATA[No Worries ]]></description>
         <link>https://thegrid.ai/no-worries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 23:24:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/no-worries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fence Job]]></title>
+            <description><![CDATA[<article><h1>Fence Job</h1><p>The city code require's the fence to be 4 feet until 27 feet back from the side walk. So we had it built going up to the 6 feet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f2a8d8-37c0-438d-b6bf-e373fcd7c0be.jpg"></article>]]></description>
+            <link>https://thegrid.ai/no-worries/fence-job/index.html</link>
+            <guid isPermaLink="false">4a00d222-a0ee-45eb-83ec-7590006ad53a</guid>
+            <pubDate>Mon, 28 Mar 2016 23:24:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fence Job]]></title>
             <description><![CDATA[<article><h1>Fence Job</h1><p>Back side of fence done, Straight and looking sharp!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/859f19cbb85a24d799ecedc34a78c851088ba417.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6efe62d0-3188-495a-9472-6b5b60e04e30.jpg">]]></description>
             <link>https://thegrid.ai/no-worries/5d5e3cd6-c351-4d4b-9adb-685eb5280c3a/index.html</link>
             <guid isPermaLink="false">5d5e3cd6-c351-4d4b-9adb-685eb5280c3a</guid>
-            <pubDate>Mon, 28 Mar 2016 23:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38ab0c72-959f-4b6c-9fb4-3ef3c1f24b7a.jpg">]]></description>
-            <link>https://thegrid.ai/no-worries/eb6fe7f9-8494-4b2d-b961-1d3f54913d8e/index.html</link>
-            <guid isPermaLink="false">eb6fe7f9-8494-4b2d-b961-1d3f54913d8e</guid>
             <pubDate>Mon, 28 Mar 2016 23:06:31 GMT</pubDate>
         </item>
     </channel>
