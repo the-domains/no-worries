@@ -6,10 +6,10 @@ color:
     - '#908868'
     - '#B19D4E'
     - '#000000'
-  brandStrength: 0.6050451810006052
-  lightness: 0.01084897038526833
-  rhythmicContrast: 0.2688219929113984
-  saturation: 0.49880602047778666
+  brandStrength: 0.684121
+  lightness: 0.521114
+  rhythmicContrast: 0.499155
+  saturation: 0.498806
 cta: {}
 layout_spectrum: 0.44184572622179985
 name: 'No Worries '
