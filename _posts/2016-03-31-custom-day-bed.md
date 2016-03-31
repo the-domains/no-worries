@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This Is my most favorite part of any build...The design! I only wish I did not draw like a five year old.'
-datePublished: '2016-03-31T23:01:18.557Z'
-dateModified: '2016-03-31T23:01:04.272Z'
-title: Custom Day Bed
+datePublished: '2016-03-31T23:11:31.646Z'
+dateModified: '2016-03-31T23:11:20.834Z'
+title: Custom Daybed
 author: []
 sourcePath: _posts/2016-03-31-custom-day-bed.md
 published: true
