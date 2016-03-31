@@ -4,8 +4,15 @@
         <description><![CDATA[Future Businesses site]]></description>
         <link>https://thegrid.ai/no-worries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 23:01:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/no-worries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom Day Bed]]></title>
+            <description><![CDATA[<article><h1>Custom Day Bed</h1><p>This Is my most favorite part of any build...The design! I only wish I did not draw like a five year old.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f2ba8ba960950af64e475a38b752bd5b22e6b58.png"></article>]]></description>
+            <link>https://thegrid.ai/no-worries/custom-day-bed/index.html</link>
+            <guid isPermaLink="false">354a4065-4931-420e-85ed-e570663a91e8</guid>
+            <pubDate>Thu, 31 Mar 2016 23:01:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Future business page]]></title>
             <description><![CDATA[<article><h1>Future business page</h1><p>NO WORRIES HOME REPAIR & CUSTOM WOODWORKING......."IT'S A GREAT DAY TO GET IT RIGHT." No Worries is female owned and operated, I believe in a firm hand shake, and an honest look into each others eyes...I provide a trustworthy business to Plattsburgh,  and the surrounding communities. No Worries has much love, and passion for the work that is done, and proud to say it. Mindy Tsolina-Owner/518-593-8686.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6b60568be9e4b146b1ad7cda9c10858821f83db.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/no-worries/fence-job/index.html</link>
             <guid isPermaLink="false">4def1e09-f56a-4b86-871b-802f93d7a970</guid>
             <pubDate>Mon, 28 Mar 2016 23:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fence Job]]></title>
-            <description><![CDATA[<article><h1>Fence Job</h1><p>The side, of the side fence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/befc5529a67705cdbcf06bf957a94caefc255eb6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/no-worries/fence-job/index.html</link>
-            <guid isPermaLink="false">e8a0bd20-04f7-4109-adb1-77707bc85b09</guid>
-            <pubDate>Mon, 28 Mar 2016 23:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
