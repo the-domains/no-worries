@@ -4,7 +4,7 @@
         <description><![CDATA[Future Businesses site]]></description>
         <link>https://thegrid.ai/no-worries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 05:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 05:39:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/no-worries/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Custom Daybed]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/no-worries/fence-job/index.html</link>
             <guid isPermaLink="false">051fba04-b6f2-4d31-b107-4174d0659673</guid>
             <pubDate>Mon, 28 Mar 2016 23:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d62089dc-db96-4354-803f-8d35eff99ea4.jpg">]]></description>
-            <link>https://thegrid.ai/no-worries/f8383b42-3bcf-410c-83bc-a5dd68ae1ebb/index.html</link>
-            <guid isPermaLink="false">f8383b42-3bcf-410c-83bc-a5dd68ae1ebb</guid>
-            <pubDate>Sun, 03 Apr 2016 05:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
