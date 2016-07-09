@@ -1,26 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: "NO WORRIES HOME REPAIR & CUSTOM WOODWORKING.......\"IT'S A GREAT DAY TO GET IT RIGHT.\" No Worries is female owned and operated, I believe in a firm hand shake, and an honest look into each others eyes...I provide a trustworthy business to Plattsburgh, \_and the surrounding communities. No Worries has much love, and passion for the work that is done, and proud to say it. Mindy Tsolina-Owner/518-593-8686."
-datePublished: '2016-03-28T23:36:21.442Z'
-dateModified: '2016-03-28T23:36:11.210Z'
-title: Future business page
 author: []
+dateModified: '2016-07-09T16:11:57.080Z'
+datePublished: '2016-07-09T16:12:29.876Z'
+description: ''
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+title: >-
+  HONEST CONTRACTING WITH HEART & CUSTOM WOODWORKING......."IT'S A GREAT DAY TO
+  GET IT RIGHT." Honest contracting with Heart is female owned and operated, I
+  believe in a firm hand shake, and and honest look into each others eyes...I
+  provide a trustworthy business to Plattsburgh, and the surrounding
+  communities. Love & Passion has much to do with the work that is done, and I'm
+  proud to say it. Mindy Tsolina-Owner/518-593-8686.
+starred: true
 sourcePath: _posts/2016-03-28-future-business-page.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 url: future-business-page/index.html
 _type: Article
 
 ---
-NO WORRIES HOME REPAIR & CUSTOM WOODWORKING......."IT'S A GREAT DAY TO GET IT RIGHT." No Worries is female owned and operated, I believe in a firm hand shake, and an honest look into each others eyes...I provide a trustworthy business to Plattsburgh,  and the surrounding communities. No Worries has much love, and passion for the work that is done, and proud to say it. Mindy Tsolina-Owner/518-593-8686\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16063e3f-0062-460e-a408-608f568f5c90.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6b60568be9e4b146b1ad7cda9c10858821f83db.jpg)
+
+# HONEST CONTRACTING WITH HEART & CUSTOM WOODWORKING......."IT'S A GREAT DAY TO GET IT RIGHT." Honest contracting with Heart is female owned and operated, I believe in a firm hand shake, and and honest look into each others eyes...I provide a trustworthy business to Plattsburgh, and the surrounding communities. Love & Passion has much to do with the work that is done, and I'm proud to say it. Mindy Tsolina-Owner/518-593-8686\.
