@@ -1,20 +1,13 @@
 name: 'No Worries '
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a5a93f-47b3-49dc-92a2-3344750f39bc.jpg
 layout_spectrum: 0.61402
 typography_spectrum: 0.206925
-title: Future Businesses site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#A0A088'
@@ -27,3 +20,10 @@ color:
   saturation: 0.498806
   rhythmicContrast: 0.499155
 purpose: []
+title: Future Businesses site
+author:
+  name: Mindy Davis
+  url: ''
+  email: beepresent.ms@gmail.com
+content_rating:
+  adult: false
