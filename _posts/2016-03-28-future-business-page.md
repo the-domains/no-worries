@@ -1,11 +1,4 @@
 ---
-author: []
-dateModified: '2016-07-09T16:47:58.041Z'
-datePublished: '2016-07-09T16:48:08.228Z'
-description: HONEST CONTRACTING WITH HEART
-hasPage: true
-inFeed: true
-inNav: false
 keywords: []
 title: >-
   HONEST CONTRACTING WITH HEART &  CUSTOM WOODWORKING......."IT'S A GREAT DAY TO
@@ -14,10 +7,20 @@ title: >-
   provide a trustworthy business to Plattsburgh, and the surrounding
   communities. Love & Passion has much to do with the work that is done, and I'm
   proud to say it. Mindy Tsolina-Owner/518-593-8686.
+datePublished: '2016-08-04T18:27:05.184Z'
+dateModified: '2016-08-04T18:26:59.546Z'
+author: []
+inFeed: true
+hasPage: true
+inNav: false
+description: Honest Contracting With HEART & Custom Woodworking
+publisher:
+  name: MINDY Tsolina
+via: {}
 starred: true
 sourcePath: _posts/2016-03-28-future-business-page.md
 url: future-business-page/index.html
 _type: Article
 
 ---
-![HONEST CONTRACTING WITH HEART](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6b60568be9e4b146b1ad7cda9c10858821f83db.jpg)
+![Honest Contracting With HEART & Custom Woodworking](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6b60568be9e4b146b1ad7cda9c10858821f83db.jpg)
