@@ -7,8 +7,8 @@ title: >-
   provide a trustworthy business to Plattsburgh, and the surrounding
   communities. Love & Passion has much to do with the work that is done, and I'm
   proud to say it. Mindy Tsolina-Owner/518-593-8686.
-datePublished: '2016-08-04T18:27:05.184Z'
-dateModified: '2016-08-04T18:26:59.546Z'
+datePublished: '2016-08-04T18:27:29.281Z'
+dateModified: '2016-08-04T18:27:10.681Z'
 author: []
 inFeed: true
 hasPage: true
