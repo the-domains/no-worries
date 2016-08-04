@@ -10,15 +10,15 @@ opengraph:
   appId: ''
 color:
   brandColors:
-    - '#A0A088'
-    - '#484020'
-    - '#908868'
-    - '#B19D4E'
-    - '#000000'
-  brandStrength: 0.684121
-  lightness: 0.521114
-  saturation: 0.498806
-  rhythmicContrast: 0.499155
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.1916473989840597
+  lightness: 0.26280256430618465
+  saturation: 0.3750178636983037
+  rhythmicContrast: 0.5974150297697634
 purpose: []
 title: Future Businesses site
 author:
@@ -27,3 +27,5 @@ author:
   email: beepresent.ms@gmail.com
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
