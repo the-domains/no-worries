@@ -7,15 +7,15 @@ title: >-
   provide a trustworthy business to Plattsburgh, and the surrounding
   communities. Love & Passion has much to do with the work that is done, and I'm
   proud to say it. Mindy Tsolina-Owner/518-593-8686.
-datePublished: '2016-08-04T18:27:29.281Z'
-dateModified: '2016-08-04T18:27:10.681Z'
+datePublished: '2016-08-06T12:36:54.683Z'
+dateModified: '2016-08-04T18:54:40.204Z'
+publisher:
+  name: MINDY Tsolina
 author: []
 inFeed: true
 hasPage: true
 inNav: false
 description: Honest Contracting With HEART & Custom Woodworking
-publisher:
-  name: MINDY Tsolina
 via: {}
 starred: true
 sourcePath: _posts/2016-03-28-future-business-page.md
