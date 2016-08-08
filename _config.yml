@@ -1,8 +1,8 @@
 name: Honest Contracting WITH HEART
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a5a93f-47b3-49dc-92a2-3344750f39bc.jpg
-layout_spectrum: 0.61402
-typography_spectrum: 0.206925
+layout_spectrum: 0.2456103137228638
+typography_spectrum: 0.4638454045634717
 cta: {}
 analytics: {}
 opengraph:
@@ -27,3 +27,5 @@ author:
   email: beepresent.ms@gmail.com
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
